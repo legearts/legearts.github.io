@@ -32,16 +32,6 @@ div.FullPage {
 
 }
 
-div.MainMenu {
-    width: 100%;
-    padding: 0px;
-    margin:0px;
-    position:fixed;
-    top:0px;
-    z-index:10;
-    background-color:#2a2a2a;
-    height:60px;
-}
 .preloader {
 
    position: absolute;
@@ -55,6 +45,17 @@ div.MainMenu {
    background-color: #FFF;
    background-position: center;
 
+}
+
+div.MainMenu {
+    width: 100%;
+    padding: 0px;
+    margin:0px;
+    position:fixed;
+    top:0px;
+    z-index:10;
+    background-color:#2a2a2a;
+    height:60px;
 }
 
 div.PageData {
