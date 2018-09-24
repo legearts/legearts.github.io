@@ -47,6 +47,10 @@ div.FullPage {
 
 }
 
+.isnttright{
+    margin-left: 75%;
+}
+
 div.MainMenu {
     width: 100%;
     padding: 0px;
