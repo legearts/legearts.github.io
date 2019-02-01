@@ -21,6 +21,11 @@ html, body
     color:#fff;
     background-color:#000000;
 }
+div.sticky {
+  position: sticky;
+   bottom: -10px;
+	z-index:10;
+  background-color: #a5000a;
 
 div.FullPage {
     width: 100%;
